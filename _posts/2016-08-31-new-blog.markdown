@@ -1,0 +1,19 @@
+---
+layout:     post
+title:      "New blog"
+subtitle:   "And a challenge"
+date:       2016-08-31 12:00:00
+author:     "Mauricio Vieira"
+header-img: "img/post-bg-01.jpg"
+---
+
+<p>"Yes. Again. This time I will do it!". Here I go with another technical blog. The main reason is that I don't want to pay Dreamhost anymore, so I decided to use Github pages.</p>
+
+<p>This blog is meant to be a <i>daily</i> blog with short posts for whatever I do or read. I want to make my personal goals public, because that is supposed to make me more engaged to finish them. I also want to have it in portuguese, with a separate index, for posting old notes that I wrote in txt and never published.<p>
+
+<h2 class="section-heading">September goals</h2>
+
+There's a <a href="http://ejohn.org/blog/write-code-every-day/">post</a> by <a href="https://github.com/jeresig">John Resig</a> that inspires me a lot. He says there that he'll code everyday, and set his own rules. And I think he's been coding everyday since that blog post.
+
+What I want to do for September is just <b>blog everyday</b>. Simple like that. Let's see how it goes.
+
