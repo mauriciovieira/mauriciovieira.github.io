@@ -19,6 +19,8 @@ I don't know how to use imaging software. I mean, I used to use Gimp and Inkscap
 
 https://search.creativecommons.org/
 
+https://static.pexels.com/photos/139135/pexels-photo-139135.jpeg
+
 <a href="#">
     <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
 </a>
