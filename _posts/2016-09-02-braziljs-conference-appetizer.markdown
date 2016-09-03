@@ -7,10 +7,6 @@ author:     "Mauricio Vieira"
 header-img: "img/braziljs-bg.jpg"
 ---
 
-<h2>Notice</h2> 
-
-<i>This post will be updated along with the creation of new posts about the conference</i>
-
 <h2>The conference</h2>
 
 <p>Last weekend I went from São Paulo to <a href="https://en.wikipedia.org/wiki/Porto_Alegre">Porto Alegre</a> to attend to my first Javascript conference ever.</p>
@@ -21,17 +17,23 @@ header-img: "img/braziljs-bg.jpg"
 
 <h2 class="section-heading">First day</h2>
 
+<p>The biggest javascript conference in the universe</p>
+
 <p>Crowded, long lines, and very well organized. They recorded everything and published to youtube.</p>
 
 {% include youtube.html id="tJ0XV9W4nHw" %}
 
+<blockquote>Is there a way to cut a youtube video by just passing the start and end seconds using command line?</blockquote>
+
+<h2>Notice</h2> 
+
 <p>In the following days I will post about the talks I watched and link below. The talks I did not watch live, I will just try to link the slides (or the youtube video).</p>
 
-<blockquote>Is there a way to cut an youtube video just passing the start and end seconds using command line?</blockquote>
+## Talks 
 
+* [Jake Archibald - Keynote - Instant loading offline-first progressive web apps the next generation part II uncovered]({% post_url 2016-09-03-braziljs-jake-archibald %})
 <ul>
-  <li>Jake Archibald - Keynote - Instant loading offline-first progressive web apps the next generation part II uncovered</li>
-  <li>Ruth John - Let's Talk About MIDI</li>
+<li>Ruth John - Let's Talk About MIDI</li>
   <li>Nolan Lawson - We Can Work It Out: from Web Workers to Service Workers</li>
   <li>Irina Shestak - Taking on Genetically Evolving Cellular Automata with JavaScript</li>
   <li>Newton Calegari - Vídeo na Web: indo além do elemento video</li>
