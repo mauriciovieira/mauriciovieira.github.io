@@ -42,11 +42,11 @@ Bundler version 1.10.6
 
 All you need to install jekyll is a Gemfile (i.e. a text file named Gemfile) with the following lines:
 
-<pre>
+{% highlight ruby %}
 source 'https://rubygems.org'
 
 gem "jekyll"
-</pre>
+{% endhighlight %}
 
 But I got a sample installation by cloning <a href="http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/">Clean Blog</a>.
 
@@ -58,7 +58,7 @@ $ bundle install --path .bundle
 
 <p>Bundler makes a local environment for your gems, so you don't have to globally install packages (and mess with your system). Also for production, normally you don't have access or don't want to install ruby gems globally. So I always use bundler.</p>
 
-<p>The <code>--path</code> parameter should point to any <i>dot-name</i> (like <code>.bundle</code>) because jekyll tries to compile itself if it's on it's way (any subdirectory the blog has).</p>
+<p>The <code>--path</code> parameter should point to any <i>dot-name</i> (like <code>.bundle</code>) because jekyll tries to compile itself if it's on its way (any subdirectory the blog has) and issues an error.</p>
 
 And take look at the versions:
 
