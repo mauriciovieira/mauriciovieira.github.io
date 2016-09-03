@@ -58,7 +58,7 @@ $ bundle install --path .bundle
 
 <p>Bundler makes a local environment for your gems, so you don't have to globally install packages (and mess with your system). Also for production, normally you don't have access or don't want to install ruby gems globally. So I always use bundler.</p>
 
-<p>The --path parameter should point to any dot-name because jekyll tries to compile itself if it's on it's way (any subdirectory the blog has).</p>
+<p>The <code>--path</code> parameter should point to any <i>dot-name</i> (like <code>.bundle</code>) because jekyll tries to compile itself if it's on it's way (any subdirectory the blog has).</p>
 
 And take look at the versions:
 
