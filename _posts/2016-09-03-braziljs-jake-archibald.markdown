@@ -19,11 +19,11 @@ Just a misterious talk about the _future of web performance_. I got excited to a
 
 <h2 class="section-heading">The talk</h2>
 
-[Jake Archibald](https://jakearchibald.com) opened the conference with a Game of Thrones Google World video about London, where he works, and Carslile, his hometown.
+[Jake Archibald](https://jakearchibald.com) opened the conference with a Game of Thrones Google World video about London, where he works, and Carslile, his hometown. He is a developer advocate at Google Chrome.
 
 Then he presented [Emojoy!](http://jakearchibald-gcm.appspot.com) to introduce how a [progressive webapp](https://developers.google.com/web/progressive-web-apps/) is built. What's basically needed is an <code>index.html</code> and a <code>manifest.json</code> for setting up the app.
 
-So, the app runs on the mobile browser and when the phone is offline and worse on _Lie-fie_, that is when the phone has a connection but is so weak that doesn't get anything.
+So, the app runs on the mobile browser and when the phone is offline (and worse on _Lie-fie_, that is when the phone has a connection but is so weak that doesn't get anything). When offline or on _Lie-fie_, the experience of a web app can be terrible.
 
 <h2 class="section-heading">Service Worker</h2>
 
@@ -74,9 +74,19 @@ self.addEventListener('fetch', event => {
 })
 {% endhighlight %}
 
-So the cache is the primary resource of data and is falling back to the network. 
+This way, the cache is the primary resource of data and is falling back to the network. The user always has a good experience, even on _Lie-fie_. And this is called _offline first_.
 
 <h2 class="section-heading">Further Reading</h2>
 
-I did not find his slides but found the official [tutorial](https://developers.google.com/web/fundamentals/getting-started/) about it and the Emojoy! [source code](https://github.com/jakearchibald/emojoy/) is also available. 😃
+The talk was also about [Streams](https://jakearchibald.com/2016/streams-ftw/), but I won't cover here.
+
+<s>I did not find his slides...</s> <b>Update:</b> Jake [published](https://twitter.com/jaffathecake/status/772211953460707328) the slides:
+
+Part I:
+<script async class="speakerdeck-embed" data-id="f3406bb4c82744738ede2f3d2ab1bb74" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+Part II - uncovered:
+<script async class="speakerdeck-embed" data-id="ef3764c11dbf4091b1bcaf2750f9372b" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+The official [tutorial](https://developers.google.com/web/fundamentals/getting-started/) about progressive webapps and the Emojoy! [source code](https://github.com/jakearchibald/emojoy/) are also available. 😃
 
