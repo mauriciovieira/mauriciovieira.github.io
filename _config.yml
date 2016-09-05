@@ -15,6 +15,9 @@ email_username:  contact@mauriciovieira.net
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
 google_tracking_id: UA-83385206-1
 
+# Disqus
+disqus: mauriciovieira
+
 # Build settings
 markdown: kramdown
 highlighter: rouge

@@ -48,3 +48,7 @@ layout: default
 </article>
 
 <hr>
+
+{% if site.disqus and page.comments %}
+    {% include disqus.html %}
+{% endif %}
