@@ -78,7 +78,7 @@ This way, the cache is the primary resource of data and is falling back to the n
 
 <h2 class="section-heading">Further Reading</h2>
 
-The talk was also about [Streams](https://jakearchibald.com/2016/streams-ftw/), but I won't cover here.
+The talk was also about [Streams](https://jakearchibald.com/2016/streams-ftw/), but I won't cover here, except the fact that he was the first one to play with the poo emoji (💩).
 
 <s>I did not find his slides...</s> <b>Update:</b> Jake [published](https://twitter.com/jaffathecake/status/772211953460707328) the slides:
 
@@ -90,3 +90,4 @@ Part II - uncovered:
 
 The official [tutorial](https://developers.google.com/web/fundamentals/getting-started/) about progressive webapps and the Emojoy! [source code](https://github.com/jakearchibald/emojoy/) are also available. 😃
 
+{% include series/braziljs2016.html %}
