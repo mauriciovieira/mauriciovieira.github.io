@@ -1,5 +1,6 @@
 ---
 layout:     post
+comments:   true
 title:      "Running jekyll"
 subtitle:   "A short howto for future myself."
 date:       2016-09-01 06:35:55

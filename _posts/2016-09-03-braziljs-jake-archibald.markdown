@@ -1,5 +1,6 @@
 ---
 layout:     post
+comments:   true
 title:      "Jake Archibald's talk on BrazilJS"
 subtitle:   "Instant loading offline-first progressive web apps - the next generation - part II uncovered "
 date:       2016-09-03 16:13:53

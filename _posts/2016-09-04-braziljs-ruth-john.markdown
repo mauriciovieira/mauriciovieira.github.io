@@ -1,5 +1,6 @@
 ---
 layout:     post
+comments:   true
 title:      "Ruth John's talk on BrazilJS"
 subtitle:   "Let's talk about midi"
 date:       2016-09-04 23:26:10

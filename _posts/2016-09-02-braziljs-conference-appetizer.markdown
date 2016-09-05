@@ -1,5 +1,6 @@
 ---
 layout:     post
+comments:   true
 title:      "BrazilJS 2016, an appetizer"
 subtitle:   "the biggest javascript conference in the universe"
 date:       2016-09-02 07:00:15
