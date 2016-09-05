@@ -13,7 +13,7 @@ There is a [Web Midi API](https://webaudio.github.io/web-midi-api/) that allows 
 
 Also there is an specification for [Timing Object](http://webtiming.github.io/timingobject/) that enables a user to overload and configure and compose instruments using javascript.
 
-She did a [https://mididemos.herokuapp.com/](live demo) with a keyboard for participants to try the notes and they were played live (although overload).
+She did a [live demo](https://mididemos.herokuapp.com/) with a keyboard for participants to try the notes and they were played live (although overload).
 
 I found the [MIDI.js](https://galacticmilk.com/midi-js/) lib that provides an easier way for using all these things. [Watch this demo](https://galacticmilk.com/piano/). 
 
