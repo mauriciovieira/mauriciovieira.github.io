@@ -32,8 +32,9 @@ header-img: "img/braziljs-bg.jpg"
 ## Talks 
 
 * [Jake Archibald - Keynote - Instant loading offline-first progressive web apps the next generation part II uncovered]({% post_url 2016-09-03-braziljs-jake-archibald %})
+* [Ruth John - Let's Talk About MIDI]({% post_url 2016-09-04-braziljs-ruth-john %})
+
 <ul>
-<li>Ruth John - Let's Talk About MIDI</li>
   <li>Nolan Lawson - We Can Work It Out: from Web Workers to Service Workers</li>
   <li>Irina Shestak - Taking on Genetically Evolving Cellular Automata with JavaScript</li>
   <li>Newton Calegari - Vídeo na Web: indo além do elemento video</li>
