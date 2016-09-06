@@ -8,11 +8,11 @@ author:     "Mauricio Vieira"
 header-img: "img/braziljs-bg.jpg"
 ---
 
-[Nolan Dawson](https://nolanlawson.com/) is part of [Microsoft Edge](//edge.ms) team and also talked about ServiceWorkers and WebWorkers.
+[Nolan Lawson](https://nolanlawson.com/) is part of [Microsoft Edge](//edge.ms) team and also talked about ServiceWorkers and WebWorkers.
 
 <h2 class="section-heading">Motivation</h2>
 
-According to him, all these stuff blocks the DOM:
+According to him, all these stuff blocks the DOM somehow (_those APIs block the DOM, but [not 100%](https://twitter.com/nolanlawson/status/772984268804939777) and also heavily dependent upon the browser and usage_):
 
 <ul>
   <li>[IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/)</li>
@@ -59,7 +59,9 @@ But WebWorker has some limitations, and then W3C created ServiceWorkers (also de
 
 <h2 class="section-heading">Further Reading</h2>
 
-He published [his slides](https://nolanlawson.github.io/cascadia-2016/) from [Cascadia Fest 2016](http://2016.cascadiafest.org/) (and the talk seem to be the same) and the [talk](http://2016.cascadiafest.org/speakers/nolan-lawson/) was published too:
+He published [his slides](https://nolanlawson.github.io/cascadia-2016/) from [Cascadia Fest 2016](http://2016.cascadiafest.org/) (and the talk seem to be the same, [more or less](https://twitter.com/nolanlawson/status/772984020107866113?cn=cmVwbHk%3D&refsrc=email)) and the [talk](http://2016.cascadiafest.org/speakers/nolan-lawson/) was published too:
+
+Also, Nolan has a post about IndexedDB, stating that [Edge and Safari get less blocked than Firefox and Chrome](https://nolanlawson.com/2015/09/29/indexeddb-websql-localstorage-what-blocks-the-dom/).
 
 {% include youtube.html id="OgLemdR65pE" %}
 
