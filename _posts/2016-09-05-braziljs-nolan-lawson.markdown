@@ -13,6 +13,7 @@ header-img: "img/braziljs-bg.jpg"
 <h2 class="section-heading">Motivation</h2>
 
 According to him, all these stuff blocks the DOM:
+
 * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/)
 * [XHR](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
 * JSON.parse
