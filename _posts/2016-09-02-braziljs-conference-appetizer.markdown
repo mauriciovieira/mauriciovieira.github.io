@@ -1,6 +1,5 @@
 ---
 layout:     post
-comments:   true
 title:      "BrazilJS 2016, an appetizer"
 subtitle:   "the biggest javascript conference in the universe"
 date:       2016-09-02 07:00:15
@@ -34,9 +33,10 @@ header-img: "img/braziljs-bg.jpg"
 
 * [Jake Archibald - Keynote - Instant loading offline-first progressive web apps the next generation part II uncovered]({% post_url 2016-09-03-braziljs-jake-archibald %})
 * [Ruth John - Let's Talk About MIDI]({% post_url 2016-09-04-braziljs-ruth-john %})
+* [Nolan Lawson - We Can Work It Out: from Web Workers to Service Workers]({% post_url 2016-09-05-braziljs-nolan-lawson %})
+
 
 <ul>
-  <li>Nolan Lawson - We Can Work It Out: from Web Workers to Service Workers</li>
   <li>Irina Shestak - Taking on Genetically Evolving Cellular Automata with JavaScript</li>
   <li>Newton Calegari - Vídeo na Web: indo além do elemento video</li>
   <li>Tessa Mero - Nom Nom: Consuming REST APIs</li>
