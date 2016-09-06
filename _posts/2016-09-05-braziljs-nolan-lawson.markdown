@@ -14,12 +14,14 @@ header-img: "img/braziljs-bg.jpg"
 
 According to him, all these stuff blocks the DOM:
 
-* [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/)
-* [XHR](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
-* JSON.parse
-* fetch
-* Garbage collection
-* Javascript!
+<ul>
+  <li>[IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/)</li>
+  <li> [XHR](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)</li>
+  <li> JSON.parse</li>
+  <li> fetch</li>
+  <li> Garbage collection</li>
+  <li> Javascript!</li>
+</ul>
 
 Basically, everything made in Javascript blocks the browser because it's single threaded, unless you use something else.
 
