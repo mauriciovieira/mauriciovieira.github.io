@@ -34,10 +34,11 @@ header-img: "img/braziljs-bg.jpg"
 * [Jake Archibald - Keynote - Instant loading offline-first progressive web apps the next generation part II uncovered]({% post_url 2016-09-03-braziljs-jake-archibald %})
 * [Ruth John - Let's Talk About MIDI]({% post_url 2016-09-04-braziljs-ruth-john %})
 * [Nolan Lawson - We Can Work It Out: from Web Workers to Service Workers]({% post_url 2016-09-05-braziljs-nolan-lawson %})
+* [Irina Shestak - Taking on Genetically Evolving Cellular Automata with JavaScript]({% post_url 2016-09-06-irina-shestak %})
 
 
 <ul>
-  <li>Irina Shestak - Taking on Genetically Evolving Cellular Automata with JavaScript</li>
+  <li>
   <li>Newton Calegari - Vídeo na Web: indo além do elemento video</li>
   <li>Tessa Mero - Nom Nom: Consuming REST APIs</li>
   <li>Willian Justen de Vasconcellos - JS loves Music (JS <3 Music)</li>

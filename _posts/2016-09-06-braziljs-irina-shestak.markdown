@@ -1,13 +1,14 @@
 ---
 layout:     post
-title:      "Template"
-subtitle:   "Subtitle if you want."
-date:       2016-xx-yy HH:MM:SS
+comments:   true
+title:      "Irina Shestaks talk on BrazilJS"
+subtitle:   "We Can Work It Out: from Web Workers to Service Workers"
+date:       2016-09-06 23:50:10
 author:     "Mauricio Vieira"
-header-img: "img/post-bg-03.jpg"
+header-img: "img/braziljs-bg.jpg"
 ---
 
-<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+<p></p>
 
 <p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
 
@@ -41,3 +42,5 @@ header-img: "img/post-bg-03.jpg"
 <p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
 
 <p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
+
+{% include series/braziljs2016.html %}
