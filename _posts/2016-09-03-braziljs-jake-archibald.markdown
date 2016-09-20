@@ -77,6 +77,13 @@ self.addEventListener('fetch', event => {
 
 This way, the cache is the primary resource of data and is falling back to the network. The user always has a good experience, even on _Lie-fie_. And this is called _offline first_.
 
+
+<h2 class="section-heading">Full talk:</h2>
+
+<b>Update:</b> BrazilJS organizers just published the recordings:
+
+{% include youtube.html id="k6P9ndFNarg" %}
+
 <h2 class="section-heading">Further Reading</h2>
 
 The talk was also about [Streams](https://jakearchibald.com/2016/streams-ftw/), but I won't cover here, except the fact that he was the first one to play with the poo emoji (💩).
