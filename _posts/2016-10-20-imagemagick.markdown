@@ -48,3 +48,6 @@ $ convert post-bg-python-01-1900.jpg -negate post-bg-python-01-negate.jpg
 <img src="{{ site.baseurl }}/img/2016-10-20-imagemagick/post-bg-python-01-negate-20perc.jpg" alt="Inverted color">
 <span class="caption text-muted">The final image.</span>
 
+### Real life example
+
+The first post I used this background image was the post about [anaconda]({% post_url 2016-10-15-anaconda %}).
